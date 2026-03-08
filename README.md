@@ -4,7 +4,7 @@
 🎓 Final Year Electronics & Telecommunication Engineering Student  
 💻 Full-Stack Developer  
 
-
+# Tech Stack
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
