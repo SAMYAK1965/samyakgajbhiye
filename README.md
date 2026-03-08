@@ -4,27 +4,22 @@
 🎓 Final Year Electronics & Telecommunication Engineering Student  
 💻 Full-Stack Developer  
 
----
 
-## 🚀 Tech Stack
-
-### Frontend
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-### Backend
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 ![REST API](https://img.shields.io/badge/REST-API-lightgrey)
 
-### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite)
 
-### Tools
+
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
